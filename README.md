@@ -1,7 +1,7 @@
 
 # Bot para cadastro de informações
 
-Este projeto consiste em inserir informações em site web de forma automatizada a partir de planilhas do excel, utilizando linguagem Python.
+Este projeto consiste em obter informações de um site web, criar uma planilha e inserir os dados obtidos de forma automatizada e utilizando linguagem Python.
 
 ## Bibliotecas utilizados
 
