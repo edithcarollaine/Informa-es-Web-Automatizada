@@ -1,5 +1,5 @@
 
-# Bot para cadastro de informações
+# Obtendo informações web automatizada
 
 Este projeto consiste em obter informações de um site web, criar uma planilha e inserir os dados obtidos de forma automatizada e utilizando linguagem Python.
 
